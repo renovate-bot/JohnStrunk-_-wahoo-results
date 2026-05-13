@@ -10,7 +10,7 @@ dependencies = [
     "pillow==12.2.0",
     "pychromecast==14.0.10",
     "pyinstaller==6.20.0",
-    "requests==2.33.1",
+    "requests==2.34.1",
     "segment-analytics-python==2.3.6",
     "semver==3.0.4",
     "sentry-sdk==2.60.0",
